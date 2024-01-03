@@ -1,0 +1,27 @@
+{
+  "Module": 1,
+  "Page": 1,
+  "Chapters": [
+    "1  Semantic Web Page Layout with HTML",
+    "2  Styling HTML concepts Using CSS"
+  ],
+  "htmlTopics": [
+    { "question": "What is HTML?", "index": "0" },
+    { "question": "Attributes + Hyperlinking", "index": "1" },
+    { "question": "Headings + Lists", "index": "2" },
+    { "question": "Inline vs. Block Elements + Divs", "index": "3" },
+    { "question": "id + class Attributes", "index": "4" },
+    { "question": "The img Element", "index": "5" },
+    { "question": "Delving into Semantics", "index": "6" },
+    { "question": "HTML Tables", "index": "7" },
+    { "question": "HTML Forms", "index": "8" }
+  ],
+  "cssTopics": [
+    { "question": "What is CSS?", "index": "0" },
+    { "question": "Introduction to the Cascade", "index": "1" },
+    { "question": "Basic CSS Selectors", "index": "2" },
+    { "question": "Selector Combinations", "index": "3" },
+    { "question": "The Box Model", "index": "4" },
+    { "question": "Color", "index": "5" }
+  ]
+}
